@@ -29,15 +29,14 @@
 
 ## 📂 Projects
 Here are some projects I’ve worked on or contributed to:
-- 🔌 **IoT Hub App** – Lightweight Node.js application for managing IoT devices
-- 📊 **Dashboard Integration** – Embedded Grafana dashboards using NGINX reverse proxy and bearer token auth
-- 📦 **Custom APIs** – Designed and integrated secure REST APIs for internal tools
+- 📢 **PromoAds Platform** – Developed a dynamic ad publishing web platform to manage and schedule promotional content with user role-based access control.
+- 💰 **Loan App** – Built a full-stack loan management application with customer registration, loan tracking, and real-time status updates.
 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sethika-manumitha/)
+- 📧 Email: sethika7@gmail.com
 
 ---
 
